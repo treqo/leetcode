@@ -29,3 +29,15 @@ TODO:
 - connect obsidian md notes? maybe in `docs`
 
 ### Thursday, April 24, 2025
+
+Added:
+
+- `neetcode150/arrays_and_hashing`
+  - `1_two_sum.cpp`
+  - `217_contains_duplicate.cpp`
+  - `242_valid_anagram.cpp`
+- `leetcode`
+  - `219_contains_duplicate_ii`
+  - `618_valid_palindrome_ii`
+  - `2799_count_complete_subarrays_in_an_array`
+  - `198_house_robber`
