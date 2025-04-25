@@ -27,3 +27,5 @@ TODO:
 - connect my leetcode tracker google sheets
 - make some templates
 - connect obsidian md notes? maybe in `docs`
+
+### Thursday, April 24, 2025
