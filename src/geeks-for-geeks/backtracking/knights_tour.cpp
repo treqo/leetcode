@@ -31,8 +31,8 @@ private:
 	}
 
 	void knightTourHelper(pair<int,int> coord, int step, int n, vector<vector<int>> &board) {
-		if(step == n*n) {
-			res_set.insert(serialize(n, board));
+		if(step == n*n && board[n-1][n-1] == n*n-1) {
+			res_set.insert(serialize(n,board));
 			result.push_back(board);
 			return;
 		}
